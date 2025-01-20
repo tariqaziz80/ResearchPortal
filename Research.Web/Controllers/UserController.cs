@@ -74,5 +74,6 @@ namespace Research.Web.Controllers
 
             return lgnU;
         }
+        public int TestFunc() {  return 0; }
     }
 }
